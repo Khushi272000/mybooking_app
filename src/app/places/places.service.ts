@@ -10,24 +10,24 @@ export class PlacesService {
   private _places: Place[] = [
     new Place(
       'p1',
-      'Barcelona, Spain',
-      'A Beautiful City In Spain.',
-      'https://www.tripsavvy.com/thmb/Y5PHNy8w8iMtUNqpDFRFc434jjQ=/2121x1414/filters:fill(auto,1)/aerial-view-of-barcelona-skyline-with-sagrat-cor-temple--catalonia--spain-1143273440-c61c8aace05d457c8a8471ae46eee354.jpg',
-      249.99
-    ),
-    new Place(
-      'p2',
-      "Maldives",
-      'gorgeous island for high-end romance',
-      'https://cache.marriott.com/marriottassets/marriott/MLEWH/mlewh-wow-oceanhaven-1800-hor-feat.jpg',
+      'Taj Mahal',
+      'The Symbol Of Eternal Love.',
+      'https://miro.medium.com/max/3200/1*jJvbUt3kWjAElnKjy1wHPg.jpeg',
       169.99
     ),
     new Place(
+      'p2',
+      'Udaipur',
+      'City Of Lakes',
+      'https://res-1.cloudinary.com/enchanting/f_auto/et-web/2015/05/Enchanting-Travels-India-Tours-Udaipur-Palace.jpg',
+      249.49
+    ),
+    new Place(
       'p3',
-      'Switzerland',
-      'Heart Of Europe',
-      'https://lonelyplanetwpnews.imgix.net/2018/02/Zurich-Switzerland.jpg',
-      144.99
+      'Kullu-Manali',
+      'A Beautiful Hill Station',
+      'https://kullumanali.org/wp-content/uploads/2018/11/5-Best-Caf%C3%A9s-Offering-Incredible-Views-of-Manali.jpg',
+      174.99
     )
   ];
 
